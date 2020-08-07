@@ -59,13 +59,10 @@ My favorite editor is VSCode and I made some handy extensions for it.
 
 <details align="center">
     <summary>
-        <b>Stats about me</b><br>
+        <b>More</b><br>
     </summary>
     <br>
-    <div>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=amir9480&show_icons=true"/>
-    </div>
-    <div>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir9480&layout=compact"/>
-    </div>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=amir9480&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir9480&layout=compact"/>
+    </p>
 </details>
