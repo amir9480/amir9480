@@ -19,6 +19,11 @@
 
                 h1 {
                     text-align: center;
+                    text-shadow:
+                        -1px -1px 0 #fff,
+                         1px -1px 0 #fff,
+                        -1px  1px 0 #fff,
+                         1px  1px 0 #fff;
                 }
 
                 .animation {
@@ -26,7 +31,6 @@
                     font-family: Helvetica, Arial, sans-serif;
                     font-size: 50px;
                     letter-spacing: 1px;
-                    color: #fff;
                     display: inline-block;
                     animation: fadeIn 1.5s forwards;
                     opacity: 0;
