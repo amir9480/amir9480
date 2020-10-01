@@ -1,0 +1,104 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100"
+    xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                body {
+                    margin: 0;
+                    padding: 0;
+                }
+
+                .container {
+                    display: flex;
+                    justify-content: center;
+                    align-content: center;
+                    flex-direction: column;
+                    height: 100vh;
+                    width: 100vw;
+                }
+
+                h1 {
+                    text-align: center;
+                }
+
+                .animation {
+                    text-align: center;
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-size: 50px;
+                    letter-spacing: 1px;
+                    color: #fff;
+                    display: inline-block;
+                    animation: fadeIn 1.5s forwards;
+                    opacity: 0;
+                    transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+                }
+
+                .first {
+                    display: inline-block;
+                    animation: firstSpan 1.5s forwards cubic-bezier(0.785, 0.135, 0.15, 0.86);
+                    z-index: 1;
+                    position: relative;
+                }
+
+                .oh {
+                    display: inline-flex;
+                    overflow: hidden;
+                }
+
+                .second {
+                    animation: secondSpan 1.5s forwards cubic-bezier(0.785, 0.135, 0.15, 0.86);
+                    font-weight: 100;
+                    z-index: -1;
+                    display: inline-block;
+                }
+
+                @keyframes fadeIn {
+                    0% {
+                        opacity: 0;
+                        transform: scale(1);
+                    }
+                    50% {
+                        opacity: 1;
+                        transform: scale(1.1);
+                    }
+                    100% {
+                        transform: scale(1);
+                        opacity: 1;
+                    }
+                }
+                @keyframes firstSpan {
+                    0% {
+                        transform: translateX(50%);
+                    }
+                    60% {
+                        transform: translateX(50%);
+                    }
+                    100% {
+                        transform: translateX(0%);
+                    }
+                }
+                @keyframes secondSpan {
+                    0% {
+                        transform: translateX(-100%);
+                    }
+                    60% {
+                        transform: translateX(-100%);
+                    }
+                    100% {
+                        transform: translateX(0%);
+                    }
+                }
+            </style>
+            <div class="container">
+                <h1>
+                    <div class="animation">
+                        <span class="first">Hi👋</span>
+                        <span class="oh">
+                            <span class="second">, I'm Amir</span>
+                        </span>
+                    </div>
+                </h1>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
