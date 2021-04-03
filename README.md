@@ -4,15 +4,15 @@
 
 My name is **Amir Alizadeh** and I'm a web backend developer.
 
-I using PHP/Laravel for back-end and JavaScript/Vue.js for front-end.
+I using PHP/Laravel to develop back-end, also I'm familiar with JavaScript/Vue.js to develop front-end logic.
 
 I'm also interested in low-level graphic programming using OpenGL & Direct3D.
 
-My favorite editor is VSCode and I made some handy extensions for it.
+My favorite code editor is VSCode and Also I made some handy extensions for it.
 
 ---
 
-<h2 align="center">Technologies & Languages I use</h2>
+<h2 align="center">I use</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -35,25 +35,28 @@ My favorite editor is VSCode and I made some handy extensions for it.
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-    <a href="https://github.com/amir9480">
+    <a href="https://github.com/amir9480" target="_blank">
         <img src="https://img.shields.io/github/followers/amir9480?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/amir9480">
+    <a href="https://www.linkedin.com/in/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/amir_9480">
+    <a href="https://twitter.com/amir_9480" target="_blank">
         <img src="https://img.shields.io/twitter/follow/amir_9480?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
     </a>
-    <a href="https://t.me/amir9480">
+    <a href="https://t.me/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
     </a>
-    <a href="mailto:amiralizadeh9480@gmail.com">
+    <a href="mailto:amiralizadeh9480@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
-    <a href="https://www.youtube.com/channel/UCiqoDyIn7deaORvz1sPaIGA">
+    <a href="https://www.youtube.com/channel target="_blank"/UCiqoDyIn7deaORvz1sPaIGA">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
     </a>
-    <a href="https://virgool.io/@amiralizadeh9480">
+    <a href="https://amiralizadeh9480.medium.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Medium-292929?logo=medium&style=for-the-badge" alt="Virgool">
+    </a>
+    <a href="https://virgool.io/@amiralizadeh9480" target="_blank">
         <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
     </a>
 </p>
