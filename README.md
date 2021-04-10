@@ -48,7 +48,7 @@ My favorite code editor is VSCode and Also I made some handy extensions for it.
     <a href="mailto:amiralizadeh9480@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
-    <a href="https://www.youtube.com/channel target="_blank"/UCiqoDyIn7deaORvz1sPaIGA">
+    <a href="https://www.youtube.com/channel/UCiqoDyIn7deaORvz1sPaIGA"target="_blank">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
     </a>
     <a href="https://amiralizadeh9480.medium.com/" target="_blank">
