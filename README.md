@@ -4,15 +4,15 @@
 
 My name is **Amir Alizadeh** and I'm a web backend developer.
 
-I using PHP/Laravel to develop back-end, also I'm familiar with JavaScript/Vue.js to develop front-end logic.
+I using PHP/Laravel to develop back-end and I'm familiar with JavaScript/Vue.js to develop front-end.
 
-I'm also interested in low-level graphic programming using OpenGL & Direct3D.
+I'm interested in low-level graphic programming using OpenGL & Direct3D.
 
-My favorite code editor is VSCode and Also I made some handy extensions for it.
+My favorite code editor is VSCode and I made some handy extensions for it.
 
 ---
 
-<h2 align="center">I use</h2>
+<h2 align="center">What I use</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -34,13 +34,13 @@ My favorite code editor is VSCode and Also I made some handy extensions for it.
 
 <p align="center">
     <a href="https://github.com/amir9480" target="_blank">
-        <img src="https://img.shields.io/github/followers/amir9480?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/amir_9480" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/amir_9480?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
     </a>
     <a href="https://t.me/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
@@ -61,17 +61,34 @@ My favorite code editor is VSCode and Also I made some handy extensions for it.
 
 ---
 
+<h2 align="center">Buy me a pizza🍕!</h2>
+
+<p align="center">
+    If you like my open source work, Please buy me a pizza to make me a happier developer 😊.
+</p>
+<p align="center">
+    Any donation will be appreciated.
+    <a href="https://yekpay.me/en/amir9480" target="_blank">
+        <img src="https://img.shields.io/badge/-€_Euro-dc6b29?style=flat-square" alt="Donation via Yekpay">
+    </a>
+    <a href="https://idpay.ir/amir9480" target="_blank">
+        <img src="https://img.shields.io/badge/-IRR-ffac0e?style=flat-square" alt="Donation via IDPay">
+    </a>
+</p>
+
+---
+
 <details align="center">
     <summary>
         <b>More</b><br>
     </summary>
     <br>
     <p>
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=amir9480" />
+        <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amir9480&show_icons=true&theme=vue"/>
+        <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir9480&layout=compact&theme=vue" />
     </p>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=amir9480&show_icons=true"/>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir9480&layout=compact" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=amir9480" />
     </p>
     <p>
         <img align="center" src="https://komarev.com/ghpvc/?username=amir9480"/>
