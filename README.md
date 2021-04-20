@@ -64,7 +64,7 @@ My favorite code editor is VSCode and I made some handy extensions for it.
 <h2 align="center">Buy me a pizza🍕!</h2>
 
 <p align="center">
-    If you like my open source work, Please buy me a pizza to make me a happier developer 😊.
+    If you like my open source works, Please buy me a pizza to make me a happier developer 😊.
 </p>
 <p align="center">
     Any donation will be appreciated.
