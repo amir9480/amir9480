@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="donate.png" width="300">
+</p>
 <h2 align="center">Buy me a pizza🍕!</h2>
 
 <p align="center">
