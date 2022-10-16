@@ -39,9 +39,6 @@ My favorite code editor is VSCode and I made some handy extensions for it.
     <a href="https://www.linkedin.com/in/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/amir_9480" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-    </a>
     <a href="https://t.me/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
     </a>
