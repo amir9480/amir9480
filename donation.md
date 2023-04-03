@@ -12,7 +12,7 @@
     Any donation will be appreciated.
 </p>
 <p align="center">
-    <a href="https://yekpay.me/en/amir9480" target="_blank">
+    <a href="https://yekpay.io/en/amir9480" target="_blank">
         <img src="https://img.shields.io/badge/-€_Euro-40dca5?style=for-the-badge" width="100" alt="Donation via Yekpay">
     </a>
 </p>
