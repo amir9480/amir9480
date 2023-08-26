@@ -55,15 +55,6 @@ I'm Amir Alizadeh, a web backend developer specializing in PHP/Laravel for devel
 
 ---
 
-<p align="center">
-    <a href="./donation.md" target="_blank">
-        <img src="donate.png" width="300">
-    </a>
-</p>
-
-
----
-
 <details align="center">
     <summary>
         <b>More</b><br>
