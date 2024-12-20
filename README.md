@@ -2,7 +2,7 @@
     <img src="./header.svg" alt="Amir Alizadeh">
 </div>
 
-I'm Amir Alizadeh, a web backend developer specializing in PHP/Laravel for development. Additionally,  I also have experience in JavaScript/Vue.js for creating interactive and user-friendly front-end interfaces. I have an interest in low-level graphic programming utilizing OpenGL and Direct3D. As an avid coder, I have developed useful extensions for my favorite code editor, VSCode.
+I'm Amir Alizadeh, a web backend developer specializing in PHP/Laravel for development. I have an interest in low-level graphic programming utilizing OpenGL and Direct3D.
 
 ---
 
